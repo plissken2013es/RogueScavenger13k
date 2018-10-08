@@ -1,4 +1,6 @@
 # RogueScavenger13k
+[![](https://img.shields.io/badge/js13kGames-2017-green.svg)](http://js13kgames.com/) [![](https://img.shields.io/badge/community%20awards-%2323-blue.svg)](https://2017.js13kgames.com/#winners-community)
+
 My entry for 2017 JS13K gamedev compo
 
 Scavenger2D - JS version Based on graphic assets and game design from Unity's "2D Roguelike tutorial" 
